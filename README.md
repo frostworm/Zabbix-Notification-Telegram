@@ -38,7 +38,7 @@
 #### Установка из source (git requires)*:
 ```
 $ cd /usr/lib/zabbix/alertscripts
-$ git clone https://github.com/xxsokolov/Zabbix-Notification-Telegram.git .
+$ git clone https://github.com/xxsokolov/Zabbix-Notification-Telegram.git
 ```
 После этого нотификатор практически готов к работе, потребуется еще несколько шагов.
 
