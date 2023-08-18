@@ -1,4 +1,4 @@
-#!/usr/lib/zabbix/alertscripts/venv/bin/python
+#!/usr/lib/zabbix/alertscripts/Zabbix-Notification-Telegram/venv/bin/python
 # -*- coding: utf-8 -*-
 ########################
 #    Sokolov Dmitry    #
